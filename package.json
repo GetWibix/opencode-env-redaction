@@ -1,6 +1,6 @@
 {
   "name": "opencode-env-redaction",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "OpenCode plugin to automatically redact secrets (API keys, tokens, passwords) from tool outputs, file contents, and messages before they reach the LLM",
   "type": "module",
   "main": "index.js",
@@ -30,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GetWibix/opencode-env-redaction.git"
+    "url": "git+https://github.com/GetWibix/opencode-env-redaction.git"
   },
   "bugs": {
     "url": "https://github.com/GetWibix/opencode-env-redaction/issues"
