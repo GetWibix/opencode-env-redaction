@@ -22,16 +22,20 @@
     "privacy",
     "llm-safety"
   ],
-  "author": "OpenCode Community",
+  "author": {
+    "name": "Waxbix",
+    "email": "contact@waxbix.com",
+    "url": "https://waxbix.com"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/opencode-env-redaction.git"
+    "url": "https://github.com/GetWibix/opencode-env-redaction.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/opencode-env-redaction/issues"
+    "url": "https://github.com/GetWibix/opencode-env-redaction/issues"
   },
-  "homepage": "https://github.com/yourusername/opencode-env-redaction#readme",
+  "homepage": "https://github.com/GetWibix/opencode-env-redaction#readme",
   "dependencies": {
     "@opencode/plugin": "latest"
   },

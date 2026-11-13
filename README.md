@@ -39,7 +39,7 @@ opencode plugin add opencode-env-redaction
 
 # Or manually
 mkdir -p ~/.config/opencode/plugins/
-git clone https://github.com/yourusername/opencode-env-redaction.git ~/.config/opencode/plugins/opencode-env-redaction
+git clone https://github.com/GetWibix/opencode-env-redaction.git ~/.config/opencode/plugins/opencode-env-redaction
 cd ~/.config/opencode/plugins/opencode-env-redaction
 npm install
 ```
@@ -48,7 +48,7 @@ npm install
 ```bash
 # In your project root
 mkdir -p .opencode/plugins/
-git clone https://github.com/yourusername/opencode-env-redaction.git .opencode/plugins/opencode-env-redaction
+git clone https://github.com/GetWibix/opencode-env-redaction.git .opencode/plugins/opencode-env-redaction
 ```
 
 Then add to your `opencode.jsonc`:
@@ -130,7 +130,7 @@ await ctx.session.hook("title", (event) => { ... })
 
 ```bash
 # Clone and install
-git clone https://github.com/yourusername/opencode-env-redaction.git
+git clone https://github.com/GetWibix/opencode-env-redaction.git
 cd opencode-env-redaction
 npm install
 
@@ -212,9 +212,11 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/opencode-env-redaction/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/opencode-env-redaction/discussions)
+- **Issues**: [GitHub Issues](https://github.com/GetWibix/opencode-env-redaction/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/GetWibix/opencode-env-redaction/discussions)
 - **OpenCode Discord**: [Join us](https://discord.gg/opencode)
+- **Email**: [contact@waxbix.com](mailto:contact@waxbix.com)
+- **Website**: [waxbix.com](https://waxbix.com)
 
 ---
 

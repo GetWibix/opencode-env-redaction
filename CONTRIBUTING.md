@@ -4,8 +4,8 @@ Thank you for your interest in contributing! This document outlines the process 
 
 ## 🎯 Ways to Contribute
 
-- **Report bugs** — Found a false positive/negative? [Open an issue](https://github.com/yourusername/opencode-env-redaction/issues)
-- **Suggest features** — Have an idea for improvement? [Start a discussion](https://github.com/yourusername/opencode-env-redaction/discussions)
+- **Report bugs** — Found a false positive/negative? [Open an issue](https://github.com/GetWibix/opencode-env-redaction/issues)
+- **Suggest features** — Have an idea for improvement? [Start a discussion](https://github.com/GetWibix/opencode-env-redaction/discussions)
 - **Add secret patterns** — Know a new API key format? Add it!
 - **Improve documentation** — Fix typos, add examples, translate
 - **Code contributions** — Bug fixes, performance improvements, new hooks
@@ -15,7 +15,7 @@ Thank you for your interest in contributing! This document outlines the process 
 1. **Fork** the repository
 2. **Clone** your fork:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/opencode-env-redaction.git
+   git clone https://github.com/GetWibix/opencode-env-redaction.git
    cd opencode-env-redaction
    ```
 3. **Install dependencies**:
@@ -123,8 +123,9 @@ This project follows the [Contributor Covenant](https://www.contributor-covenant
 
 ## 📞 Questions?
 
-- Open a [GitHub Discussion](https://github.com/yourusername/opencode-env-redaction/discussions)
+- Open a [GitHub Discussion](https://github.com/GetWibix/opencode-env-redaction/discussions)
 - Join [OpenCode Discord](https://discord.gg/opencode)
+- Email: [contact@waxbix.com](mailto:contact@waxbix.com)
 
 ---
 
