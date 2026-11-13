@@ -40,7 +40,7 @@ coverage/
 .temp/
 
 # Package manager
-package-lock.json
+# package-lock.json  # Required for CI (npm ci)
 yarn.lock
 pnpm-lock.yaml
 
