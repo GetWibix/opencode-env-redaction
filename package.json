@@ -1,0 +1,45 @@
+{
+  "name": "opencode-env-redaction",
+  "version": "1.0.0",
+  "description": "OpenCode plugin to automatically redact secrets (API keys, tokens, passwords) from tool outputs, file contents, and messages before they reach the LLM",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "lint": "echo \"No linter configured\" && exit 0"
+  },
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "security",
+    "secrets",
+    "redaction",
+    "api-keys",
+    "tokens",
+    "privacy",
+    "llm-safety"
+  ],
+  "author": "OpenCode Community",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/opencode-env-redaction.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/opencode-env-redaction/issues"
+  },
+  "homepage": "https://github.com/yourusername/opencode-env-redaction#readme",
+  "dependencies": {
+    "@opencode/plugin": "latest"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "index.js",
+    "src/"
+  ]
+}
